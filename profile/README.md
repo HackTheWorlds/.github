@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/281476914?s=200&v=4" width="88" alt="Hack the World(s)" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackTheWorlds/.github/main/profile/assets/htw-logo.svg" />
+  <img src="https://raw.githubusercontent.com/HackTheWorlds/.github/main/profile/assets/htw-logo-light.svg" width="320" alt="Hack the World(s)" />
+</picture>
 
 <br />
 
@@ -38,12 +41,14 @@ Run by **ESIEE Paris**, **[Mines Nancy](https://mines-nancy.univ-lorraine.fr)** 
 
 ## // by the numbers
 
-```
-┌──────────────┬──────────────┬──────────────┬──────────────┐
-│     24h      │     100      │      25      │   H100 GPU   │
-│  non-stop    │  hackers     │    teams     │   cluster    │
-└──────────────┴──────────────┴──────────────┴──────────────┘
-```
+<div align="center">
+
+![24h](https://img.shields.io/badge/24h-non--stop-8b5cf6?style=flat-square&labelColor=0a0a0a)
+![100](https://img.shields.io/badge/100-hackers-22d3ee?style=flat-square&labelColor=0a0a0a)
+![25](https://img.shields.io/badge/25-teams-ec4899?style=flat-square&labelColor=0a0a0a)
+![H100](https://img.shields.io/badge/H100-GPU_cluster-8b5cf6?style=flat-square&labelColor=0a0a0a)
+
+</div>
 
 Teams of 4, picked from the best engineering schools and universities in France. Everyone gets a pass for **VivaTech**, Europe's biggest tech show. No sleep schedule provided.
 
@@ -91,13 +96,15 @@ Results, winning teams, and project writeups land here and on [hacktheworlds.fr]
 
 ## // run by
 
-| | |
-|---|---|
-| 🎓 | [ESIEE Paris](https://www.esiee.fr) |
-| ⛏️ | [Mines Nancy](https://mines-nancy.univ-lorraine.fr) |
-| 🤝 | [ACADI](https://acadi.asso.fr) |
-| 🧠 | [Institut PR[AI]RIE](https://www.prairie-psai.fr) |
-| ⚡ | Infra by [OpenGate](https://opengate.space) |
+<div align="center">
+
+[![ESIEE Paris](https://img.shields.io/badge/ESIEE_Paris-8b5cf6?style=flat-square&labelColor=0a0a0a)](https://www.esiee.fr)
+[![Mines Nancy](https://img.shields.io/badge/Mines_Nancy-22d3ee?style=flat-square&labelColor=0a0a0a)](https://mines-nancy.univ-lorraine.fr)
+[![ACADI](https://img.shields.io/badge/ACADI-ec4899?style=flat-square&labelColor=0a0a0a)](https://acadi.asso.fr)
+[![Institut PR[AI]RIE](https://img.shields.io/badge/Institut_PR%5BAI%5DRIE-8b5cf6?style=flat-square&labelColor=0a0a0a)](https://www.prairie-psai.fr)
+[![OpenGate](https://img.shields.io/badge/OpenGate_infra-22d3ee?style=flat-square&labelColor=0a0a0a)](https://opengate.space)
+
+</div>
 
 Patronage: **Philippe Baptiste**, French Minister for Higher Education, Research & Space.
 Sponsorship: **Yann LeCun**, Turing Award · ESIEE Paris alumnus · Executive Chairman, AMI Labs.
