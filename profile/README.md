@@ -35,7 +35,7 @@ LLMs are good at completing text. They're bad at understanding **what happens ne
 
 No reconstructing pixels. No brute-force generation. Predict in **representation space**, the way a brain does — and use that to plan.
 
-Run by **ESIEE Paris**, **[Mines Nancy](https://mines-nancy.univ-lorraine.fr)** / **[ACADI](https://acadi.asso.fr)**, and **Institut PR[AI]RIE**. Backed by **AI Factory France**.
+Run by **[ESIEE Paris](https://www.esiee.fr)**, **[Mines Nancy](https://mines-nancy.univ-lorraine.fr)** / **[ACADI](https://acadi.asso.fr)**, and **[Institut PR[AI]RIE](https://www.prairie-psai.fr)**. Backed by **[AI Factory France](https://aifactory-france.eu)**.
 
 <br />
 
@@ -46,7 +46,7 @@ Run by **ESIEE Paris**, **[Mines Nancy](https://mines-nancy.univ-lorraine.fr)** 
 ![24h](https://img.shields.io/badge/24h-non--stop-8b5cf6?style=flat-square&labelColor=0a0a0a)
 ![100](https://img.shields.io/badge/100-hackers-22d3ee?style=flat-square&labelColor=0a0a0a)
 ![25](https://img.shields.io/badge/25-teams-ec4899?style=flat-square&labelColor=0a0a0a)
-![H100](https://img.shields.io/badge/H100-GPU_cluster-8b5cf6?style=flat-square&labelColor=0a0a0a)
+![GB200](https://img.shields.io/badge/GB200-GPU_cluster-8b5cf6?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
@@ -107,7 +107,7 @@ Results, winning teams, and project writeups land here and on [hacktheworlds.fr]
 </div>
 
 Patronage: **Philippe Baptiste**, French Minister for Higher Education, Research & Space.
-Sponsorship: **Yann LeCun**, Turing Award · ESIEE Paris alumnus · Executive Chairman, AMI Labs.
+Sponsorship: **Yann LeCun**, Turing Award · ESIEE Paris alumnus · Executive Chairman, [AMI Labs](https://amilabs.xyz).
 
 <br />
 
