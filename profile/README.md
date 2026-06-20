@@ -10,9 +10,9 @@
 
 `JEPA` `DINO-WM` `WORLD MODELS` `SELF-SUPERVISED` `PLANNING`
 
-[![site](https://img.shields.io/badge/hacktheworlds.fr-000000?style=flat-square)](https://hacktheworlds.fr)
-[![repo](https://img.shields.io/badge/eb__jepa-1a1a1a?style=flat-square&logo=github)](https://github.com/HackTheWorlds/eb_jepa)
-[![live](https://img.shields.io/badge/2026_edition-19→20_JUN-1a1a1a?style=flat-square)](https://hacktheworlds.fr)
+[![site](https://img.shields.io/badge/hacktheworlds.fr-8b5cf6?style=flat-square&labelColor=0a0a0a)](https://hacktheworlds.fr)
+[![repo](https://img.shields.io/badge/eb__jepa-22d3ee?style=flat-square&logo=github&logoColor=f0f0f0&labelColor=0a0a0a)](https://github.com/HackTheWorlds/eb_jepa)
+[![edition](https://img.shields.io/badge/2026_edition-19→20_JUN-ec4899?style=flat-square&labelColor=0a0a0a)](https://hacktheworlds.fr)
 
 </div>
 
@@ -32,7 +32,7 @@ LLMs are good at completing text. They're bad at understanding **what happens ne
 
 No reconstructing pixels. No brute-force generation. Predict in **representation space**, the way a brain does — and use that to plan.
 
-Run by **ESIEE Paris**, **Mines Nancy / ACADI**, and **Institut PR[AI]RIE**. Backed by **AI Factory France**.
+Run by **ESIEE Paris**, **[Mines Nancy](https://mines-nancy.univ-lorraine.fr)** / **[ACADI](https://acadi.asso.fr)**, and **Institut PR[AI]RIE**. Backed by **AI Factory France**.
 
 <br />
 
@@ -94,7 +94,8 @@ Results, winning teams, and project writeups land here and on [hacktheworlds.fr]
 | | |
 |---|---|
 | 🎓 | [ESIEE Paris](https://www.esiee.fr) |
-| ⛏️ | [Mines Nancy / ACADI](https://mines-nancy.univ-lorraine.fr) |
+| ⛏️ | [Mines Nancy](https://mines-nancy.univ-lorraine.fr) |
+| 🤝 | [ACADI](https://acadi.asso.fr) |
 | 🧠 | [Institut PR[AI]RIE](https://www.prairie-psai.fr) |
 | ⚡ | Infra by [OpenGate](https://opengate.space) |
 
