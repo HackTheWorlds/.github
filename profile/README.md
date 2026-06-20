@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/281476914?s=200&v=4" width="88" alt="Hack the World(s)" />
+<img src="https://raw.githubusercontent.com/HackTheWorlds/.github/main/profile/assets/htw-logo.png" width="300" alt="Hack the World(s)" />
 
 <br />
 
