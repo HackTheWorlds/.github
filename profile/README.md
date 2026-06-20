@@ -88,9 +88,7 @@ SAT 20 ────────────────────────�
 
 ## // edition 2026 — live now
 
-This edition is running **right now**, June 19–20, 2026. The clock started at 19:00 on the 19th and stops at 19:00 on the 20th.
-
-Results, winning teams, and project writeups land here and on [hacktheworlds.fr](https://hacktheworlds.fr) right after the closing ceremony. Check back tonight.
+This edition is running **right now**, June 19–20, 2026. The clock started at 19:00 on the 19th and stops at 17:30 on the 20th.
 
 <br />
 
