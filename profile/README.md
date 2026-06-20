@@ -40,7 +40,7 @@ Run by **ESIEE Paris**, **[Mines Nancy](https://mines-nancy.univ-lorraine.fr)** 
 
 ```
 ┌──────────────┬──────────────┬──────────────┬──────────────┐
-│     24h      │     100      │      25      │   H100 GPU   │
+│     24h      │     100      │      25      │   GB200 GPU  │
 │  non-stop    │  hackers     │    teams     │   cluster    │
 └──────────────┴──────────────┴──────────────┴──────────────┘
 ```
